@@ -13,3 +13,13 @@
 4. 安裝 nodemon 套件 (若未安裝) npm install -g nodemon
 5. 啟動伺服器，執行 app.js 檔案 nodemon app.js
 6. 當終端機出現以下字樣，表示啟動完成 Express is listening on localhost:3000
+
+### Prerequisites
+- Visual Studio Code
+- Express 4.17.1
+- Node.js
+- BootStrap v4.3
+- JQuery v3.6.0
+- popper.js
+- restaurant.json
+- express-handlebars 5.3.2
